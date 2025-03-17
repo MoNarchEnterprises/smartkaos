@@ -25,7 +25,7 @@ SmartKaos.AI is an advanced AI voice agent platform that enables businesses to a
 1. Clone the repository:
 
    ```bash
-   git clone [your-repository-url]
+   git clone https://github.com/MoNarchEnterprises/smartkaos.git
    cd smartkaos-ai
    ```
 
